@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups xmlns="http://www.isdc.ro/wro"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.isdc.ro/wro wro.xsd">
+
+  <!-- CSS resources -->
+  <group name="bundledCss">
+    <css>/resources/css/lib/bootstrap/3.0.0/css/bootstrap.css</css>
+    <css>/resources/css/lib/bootstrap/3.0.0/css/bootstrap-theme.css</css>
+    <css>/resources/css/lib/font-awesome/4.0.0/css/font-awesome.css</css>
+    <css>/resources/js/lib/data-tables/1.9.4/media/css/demo_table.css</css>
+    <css>/resources/js/lib/datepicker/css/datepicker.css</css>    
+   	<css>/resources/css/lib/jquery/jquery.fileupload.css</css>   
+   	<css>/resources/css/lib/jquery-ui-1.10.3.custom.css</css>   	    
+  </group>
+
+  <!-- JS resources -->
+  <group name="bundledJs">
+    <js>/resources/js/lib/jquery/jquery-1.8.3.js</js>
+    <js>/resources/css/lib/bootstrap.js</js>
+    <js>/resources/js/lib/data-tables/1.9.4/media/js/jquery.dataTables.js</js>
+    <js>/resources/js/lib/underscore/underscore.js</js>
+    <js>/resources/js/lib/underscore/underscore.string.js</js>    
+    <js>/resources/js/lib/jquery.blockUI.js</js>
+    <js>/resources/js/lib/jquery.bootstrap-growl.js</js>    
+    <js>/resources/js/lib/datepicker/js/bootstrap-datepicker.js</js>      
+    <js>/resources/js/lib/jquery/plugins/jquery.ui.widget.js</js>
+    <js>/resources/js/lib/jquery/plugins/jquery.iframe-transport.js</js>
+    <js>/resources/js/lib/jquery/plugins/jquery.fileupload.js</js>  
+    <js>/resources/js/lib/jquery.slimscroll.js</js>  
+    <js>/resources/js/lib/jquery-ui-1.10.3.custom.js</js>  
+  </group>
+
+</groups>
